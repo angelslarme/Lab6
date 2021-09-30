@@ -6,7 +6,7 @@ h1 {
 h2 {
   font-family: sans-serif;
   color: #0099ff;
-  font-size: 10px;
+  font-size: x-small;
   text-transform: uppercase;
 
 }
@@ -15,4 +15,10 @@ p.intro {
 font-weight: bold;
 font-size: 10px;
 font-family: sans-serif;
+}
+
+h3 {
+  color: #0099ff;
+  font-size: small;
+
 }
